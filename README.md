@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bryanlim1306
-- 👀 I’m interested in ... 
+- 👀 I’m interested in ... Data Science, Web UI
 - 🌱 I’m currently learning ... Python3, Java, CSS, HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... www.linkedin.com/in/bryanlim1306
