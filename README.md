@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bryanlim1306
 - 👀 I’m interested in ... Data Science, Web UI
-- 🌱 I’m currently learning ... Python3, Java, CSS, HTML
+- 🌱 I’m currently learning ... Python3, Web Development 
 - 💞️ I’m looking to collaborate on Web Building, Python projects
 - 📫 Connect with me on Linkedin: www.linkedin.com/in/bryanlim1306
 
